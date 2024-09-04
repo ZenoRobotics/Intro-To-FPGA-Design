@@ -12,9 +12,9 @@ reg r_rst_n = 1;
 
 top_module Top_Module_Inst(
   //essential inputs
-	.clk(r_sys_clk),     //input wire 
+  .clk(r_sys_clk),     //input wire 
   .rst_n(r_rst_n),     //input wire 
-	//example outputs
+  //example outputs
   .my_output()
 );
 

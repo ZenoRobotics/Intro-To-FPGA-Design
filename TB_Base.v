@@ -21,12 +21,7 @@
 
 
 module TB_Adder();
-
-`timescale 1ns / 1ps
-
-// Instantiate DUT Module
-
-
+  
 
 parameter c_CLOCK_PERIOD_NS = 10;  //100 MHz
 reg sys_clk_r = 0;
@@ -36,6 +31,8 @@ reg [3:0] val_a_in_r = 0;
 reg [3:0] val_b_in_r = 0;
 wire [4:0] sum_c_out;
 
+  
+// Instantiate DUT Module
 add_module add_module_inst(
   //essential inputs
   .clk(sys_clk_r),     //input wire 

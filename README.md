@@ -9,7 +9,7 @@ CLBs, Slices, and LUTs
   - Clock Information
   - Block RAM, Registers
   - DSP Slices, XADC, Comm, I/O
-- Xilinx WebPack Vivado (takes over an hour to download and need to sign up for AMD account.
+- Xilinx WebPack Vivado Installation (hour+ to download and need to get an AMD account).
 - Creating a Project under Vivado
   - Adding/creating Sources
   - Adding contraint (.xdc) file (reading documentation or schematic to get FPGA pin number

@@ -23,4 +23,6 @@ CLBs, Slices, and LUTs
 
 ## FPGA Learning Platforms
 - Basys 3
-- 
+
+## Xilinx Vivado Webpack Install
+https://imperix.com/doc/help/vivado-design-suite-installation
